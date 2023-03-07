@@ -1,0 +1,327 @@
+<root xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" id="15061" version="1.0" xsi:noNamespaceSchemaLocation="https://www.aemet.es/xsd/localidades.xsd">
+<?xml-stylesheet type="text/xsl" href="index.xslt"?>
+<origen>
+<productor>Agencia Estatal de Meteorología - AEMET. Gobierno de España</productor>
+<web>https://www.aemet.es</web>
+<enlace>https://www.aemet.es/es/eltiempo/prediccion/municipios/ortigueira-id15061</enlace>
+<language>es</language>
+<copyright>© AEMET. Autorizado el uso de la información y su reproducción citando a AEMET como autora de la misma.</copyright>
+<nota_legal>https://www.aemet.es/es/nota_legal</nota_legal>
+</origen>
+<elaborado>2023-03-07T11:15:40</elaborado>
+<nombre>Ortigueira</nombre>
+<provincia>A Coruña</provincia>
+<prediccion>
+<dia fecha="2023-03-07">
+<prob_precipitacion periodo="00-24"/>
+<prob_precipitacion periodo="00-12"/>
+<prob_precipitacion periodo="12-24">90</prob_precipitacion>
+<prob_precipitacion periodo="00-06"/>
+<prob_precipitacion periodo="06-12">90</prob_precipitacion>
+<prob_precipitacion periodo="12-18">30</prob_precipitacion>
+<prob_precipitacion periodo="18-24">85</prob_precipitacion>
+<cota_nieve_prov periodo="00-24"/>
+<cota_nieve_prov periodo="00-12"/>
+<cota_nieve_prov periodo="12-24"/>
+<cota_nieve_prov periodo="00-06"/>
+<cota_nieve_prov periodo="06-12"/>
+<cota_nieve_prov periodo="12-18"/>
+<cota_nieve_prov periodo="18-24"/>
+<estado_cielo periodo="00-24" descripcion=""/>
+<estado_cielo periodo="00-12" descripcion=""/>
+<estado_cielo periodo="12-24" descripcion="Muy nuboso con lluvia escasa">45</estado_cielo>
+<estado_cielo periodo="00-06" descripcion=""/>
+<estado_cielo periodo="06-12" descripcion="Muy nuboso con lluvia escasa">45</estado_cielo>
+<estado_cielo periodo="12-18" descripcion="Muy nuboso">15</estado_cielo>
+<estado_cielo periodo="18-24" descripcion="Muy nuboso con lluvia escasa">45n</estado_cielo>
+<viento periodo="00-24">
+<direccion/>
+<velocidad/>
+</viento>
+<viento periodo="00-12">
+<direccion/>
+<velocidad/>
+</viento>
+<viento periodo="12-24">
+<direccion>SO</direccion>
+<velocidad>30</velocidad>
+</viento>
+<viento periodo="00-06">
+<direccion>O</direccion>
+<velocidad>20</velocidad>
+</viento>
+<viento periodo="06-12">
+<direccion>SO</direccion>
+<velocidad>15</velocidad>
+</viento>
+<viento periodo="12-18">
+<direccion>SO</direccion>
+<velocidad>30</velocidad>
+</viento>
+<viento periodo="18-24">
+<direccion>SO</direccion>
+<velocidad>35</velocidad>
+</viento>
+<racha_max periodo="00-24"/>
+<racha_max periodo="00-12"/>
+<racha_max periodo="12-24">55</racha_max>
+<racha_max periodo="00-06"/>
+<racha_max periodo="06-12"/>
+<racha_max periodo="12-18">55</racha_max>
+<racha_max periodo="18-24">60</racha_max>
+<temperatura>
+<maxima>16</maxima>
+<minima>8</minima>
+<dato hora="06">11</dato>
+<dato hora="12">13</dato>
+<dato hora="18">15</dato>
+<dato hora="24">14</dato>
+</temperatura>
+<sens_termica>
+<maxima>16</maxima>
+<minima>8</minima>
+<dato hora="06">11</dato>
+<dato hora="12">13</dato>
+<dato hora="18">15</dato>
+<dato hora="24">14</dato>
+</sens_termica>
+<humedad_relativa>
+<maxima>100</maxima>
+<minima>70</minima>
+<dato hora="06">100</dato>
+<dato hora="12">80</dato>
+<dato hora="18">70</dato>
+<dato hora="24">80</dato>
+</humedad_relativa>
+<uv_max>3</uv_max>
+</dia>
+<dia fecha="2023-03-08">
+<prob_precipitacion periodo="00-24">100</prob_precipitacion>
+<prob_precipitacion periodo="00-12">100</prob_precipitacion>
+<prob_precipitacion periodo="12-24">95</prob_precipitacion>
+<prob_precipitacion periodo="00-06">100</prob_precipitacion>
+<prob_precipitacion periodo="06-12">100</prob_precipitacion>
+<prob_precipitacion periodo="12-18">95</prob_precipitacion>
+<prob_precipitacion periodo="18-24">55</prob_precipitacion>
+<cota_nieve_prov periodo="00-24"/>
+<cota_nieve_prov periodo="00-12"/>
+<cota_nieve_prov periodo="12-24"/>
+<cota_nieve_prov periodo="00-06"/>
+<cota_nieve_prov periodo="06-12"/>
+<cota_nieve_prov periodo="12-18"/>
+<cota_nieve_prov periodo="18-24"/>
+<estado_cielo periodo="00-24" descripcion="Muy nuboso con lluvia">25</estado_cielo>
+<estado_cielo periodo="00-12" descripcion="Cubierto con tormenta">54</estado_cielo>
+<estado_cielo periodo="12-24" descripcion="Nuboso con tormenta">52</estado_cielo>
+<estado_cielo periodo="00-06" descripcion="Muy nuboso con lluvia">25n</estado_cielo>
+<estado_cielo periodo="06-12" descripcion="Cubierto con tormenta">54</estado_cielo>
+<estado_cielo periodo="12-18" descripcion="Nuboso con tormenta">52</estado_cielo>
+<estado_cielo periodo="18-24" descripcion="Intervalos nubosos con lluvia">23n</estado_cielo>
+<viento periodo="00-24">
+<direccion>SO</direccion>
+<velocidad>30</velocidad>
+</viento>
+<viento periodo="00-12">
+<direccion>SO</direccion>
+<velocidad>35</velocidad>
+</viento>
+<viento periodo="12-24">
+<direccion>SO</direccion>
+<velocidad>30</velocidad>
+</viento>
+<viento periodo="00-06">
+<direccion>SO</direccion>
+<velocidad>25</velocidad>
+</viento>
+<viento periodo="06-12">
+<direccion>SO</direccion>
+<velocidad>30</velocidad>
+</viento>
+<viento periodo="12-18">
+<direccion>SO</direccion>
+<velocidad>20</velocidad>
+</viento>
+<viento periodo="18-24">
+<direccion>SO</direccion>
+<velocidad>20</velocidad>
+</viento>
+<racha_max periodo="00-24">60</racha_max>
+<racha_max periodo="00-12">60</racha_max>
+<racha_max periodo="12-24">55</racha_max>
+<racha_max periodo="00-06">50</racha_max>
+<racha_max periodo="06-12">55</racha_max>
+<racha_max periodo="12-18">45</racha_max>
+<racha_max periodo="18-24">40</racha_max>
+<temperatura>
+<maxima>18</maxima>
+<minima>12</minima>
+<dato hora="06">14</dato>
+<dato hora="12">16</dato>
+<dato hora="18">15</dato>
+<dato hora="24">13</dato>
+</temperatura>
+<sens_termica>
+<maxima>18</maxima>
+<minima>12</minima>
+<dato hora="06">14</dato>
+<dato hora="12">16</dato>
+<dato hora="18">15</dato>
+<dato hora="24">13</dato>
+</sens_termica>
+<humedad_relativa>
+<maxima>100</maxima>
+<minima>70</minima>
+<dato hora="06">95</dato>
+<dato hora="12">75</dato>
+<dato hora="18">75</dato>
+<dato hora="24">75</dato>
+</humedad_relativa>
+<uv_max>3</uv_max>
+</dia>
+<dia fecha="2023-03-09">
+<prob_precipitacion periodo="00-24">100</prob_precipitacion>
+<prob_precipitacion periodo="00-12">100</prob_precipitacion>
+<prob_precipitacion periodo="12-24">95</prob_precipitacion>
+<cota_nieve_prov periodo="00-24"/>
+<cota_nieve_prov periodo="00-12"/>
+<cota_nieve_prov periodo="12-24"/>
+<estado_cielo periodo="00-24" descripcion="Muy nuboso con lluvia">25</estado_cielo>
+<estado_cielo periodo="00-12" descripcion="Muy nuboso con lluvia">25</estado_cielo>
+<estado_cielo periodo="12-24" descripcion="Muy nuboso con lluvia">25</estado_cielo>
+<viento periodo="00-24">
+<direccion>SO</direccion>
+<velocidad>40</velocidad>
+</viento>
+<viento periodo="00-12">
+<direccion>SO</direccion>
+<velocidad>40</velocidad>
+</viento>
+<viento periodo="12-24">
+<direccion>SO</direccion>
+<velocidad>40</velocidad>
+</viento>
+<racha_max periodo="00-24">95</racha_max>
+<racha_max periodo="00-12">90</racha_max>
+<racha_max periodo="12-24">95</racha_max>
+<temperatura>
+<maxima>16</maxima>
+<minima>11</minima>
+</temperatura>
+<sens_termica>
+<maxima>16</maxima>
+<minima>11</minima>
+</sens_termica>
+<humedad_relativa>
+<maxima>90</maxima>
+<minima>70</minima>
+</humedad_relativa>
+<uv_max>3</uv_max>
+</dia>
+<dia fecha="2023-03-10">
+<prob_precipitacion periodo="00-24">85</prob_precipitacion>
+<prob_precipitacion periodo="00-12">55</prob_precipitacion>
+<prob_precipitacion periodo="12-24">65</prob_precipitacion>
+<cota_nieve_prov periodo="00-24"/>
+<cota_nieve_prov periodo="00-12"/>
+<cota_nieve_prov periodo="12-24"/>
+<estado_cielo periodo="00-24" descripcion="Cubierto con lluvia escasa">46</estado_cielo>
+<estado_cielo periodo="00-12" descripcion="Cubierto con lluvia escasa">46</estado_cielo>
+<estado_cielo periodo="12-24" descripcion="Cubierto con lluvia escasa">46</estado_cielo>
+<viento periodo="00-24">
+<direccion>SO</direccion>
+<velocidad>35</velocidad>
+</viento>
+<viento periodo="00-12">
+<direccion>SO</direccion>
+<velocidad>35</velocidad>
+</viento>
+<viento periodo="12-24">
+<direccion>SO</direccion>
+<velocidad>35</velocidad>
+</viento>
+<racha_max periodo="00-24">90</racha_max>
+<racha_max periodo="00-12">90</racha_max>
+<racha_max periodo="12-24">90</racha_max>
+<temperatura>
+<maxima>18</maxima>
+<minima>12</minima>
+</temperatura>
+<sens_termica>
+<maxima>18</maxima>
+<minima>12</minima>
+</sens_termica>
+<humedad_relativa>
+<maxima>90</maxima>
+<minima>70</minima>
+</humedad_relativa>
+<uv_max>4</uv_max>
+</dia>
+<dia fecha="2023-03-11">
+<prob_precipitacion>100</prob_precipitacion>
+<cota_nieve_prov/>
+<estado_cielo descripcion="Cubierto con lluvia">26</estado_cielo>
+<viento>
+<direccion>SO</direccion>
+<velocidad>30</velocidad>
+</viento>
+<racha_max>85</racha_max>
+<temperatura>
+<maxima>16</maxima>
+<minima>13</minima>
+</temperatura>
+<sens_termica>
+<maxima>16</maxima>
+<minima>13</minima>
+</sens_termica>
+<humedad_relativa>
+<maxima>90</maxima>
+<minima>80</minima>
+</humedad_relativa>
+<uv_max>4</uv_max>
+</dia>
+<dia fecha="2023-03-12">
+<prob_precipitacion>95</prob_precipitacion>
+<cota_nieve_prov/>
+<estado_cielo descripcion="Cubierto con lluvia">26</estado_cielo>
+<viento>
+<direccion>SO</direccion>
+<velocidad>25</velocidad>
+</viento>
+<racha_max>70</racha_max>
+<temperatura>
+<maxima>19</maxima>
+<minima>12</minima>
+</temperatura>
+<sens_termica>
+<maxima>19</maxima>
+<minima>12</minima>
+</sens_termica>
+<humedad_relativa>
+<maxima>90</maxima>
+<minima>75</minima>
+</humedad_relativa>
+</dia>
+<dia fecha="2023-03-13">
+<prob_precipitacion>90</prob_precipitacion>
+<cota_nieve_prov/>
+<estado_cielo descripcion="Muy nuboso con lluvia">25</estado_cielo>
+<viento>
+<direccion>SO</direccion>
+<velocidad>30</velocidad>
+</viento>
+<racha_max>75</racha_max>
+<temperatura>
+<maxima>18</maxima>
+<minima>11</minima>
+</temperatura>
+<sens_termica>
+<maxima>18</maxima>
+<minima>11</minima>
+</sens_termica>
+<humedad_relativa>
+<maxima>90</maxima>
+<minima>70</minima>
+</humedad_relativa>
+</dia>
+</prediccion>
+</root>
